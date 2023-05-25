@@ -59,7 +59,7 @@ Go to the Config Vars section in the Settings tab of the Heroku Dashboard and ad
 - `SIGNING_SECRET`: your_signing_secret
 - `SLACK_TOKEN`: your_slack_token
 
-### 4. 배포
+### 4. Deploy
 
 ```bash
 git add .
